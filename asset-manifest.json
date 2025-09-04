@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7cdabd7c.css",
+    "main.js": "/Portfolio/static/js/main.b5830bec.js",
+    "static/js/453.ad7768ec.chunk.js": "/Portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/genesishtml.png": "/Portfolio/static/media/genesishtml.abbd24d8ca367c189d5d.png",
+    "static/media/monitor.png": "/Portfolio/static/media/monitor.750a8789a733384393ec.png",
+    "static/media/document.png": "/Portfolio/static/media/document.bec218f67f4878703d03.png",
+    "static/media/science.png": "/Portfolio/static/media/science.588ce830e2ea8ca431cd.png",
+    "static/media/web.png": "/Portfolio/static/media/web.8fcf65555e8bfa076e90.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/photoshop.png": "/Portfolio/static/media/photoshop.339f174c692e921a204a.png",
+    "static/media/html-5.png": "/Portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/illustrator.png": "/Portfolio/static/media/illustrator.c8306d9279929e8b8cfe.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio/index.html",
+    "main.7cdabd7c.css.map": "/Portfolio/static/css/main.7cdabd7c.css.map",
+    "main.b5830bec.js.map": "/Portfolio/static/js/main.b5830bec.js.map",
+    "453.ad7768ec.chunk.js.map": "/Portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cdabd7c.css",
+    "static/js/main.b5830bec.js"
+  ]
+}
